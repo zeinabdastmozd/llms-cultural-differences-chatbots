@@ -63,11 +63,11 @@ The research investigates whether LLM-generated conversations contain measurable
                            │
                            ▼
               ┌───────────────────────────┐
-              │ Linguistic Feature       │
-              │ Extraction               │
+              │ Linguistic Feature        │
+              │ Extraction                │
               │                           │
-              │ • LIWC                   │
-              │ • ELFeN                  │
+              │ • LIWC                    │
+              │ • ELFeN                   │
               └────────────┬──────────────┘
                            │
                            ▼

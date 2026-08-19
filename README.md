@@ -1,4 +1,4 @@
-![Research Project](research_pipeline.png)
+![Research Project](UK&IR.png)
 # 🌍 Do Large Language Models Differentiate and Adapt to Cultural Differences in Chatbots?
 
 ### A Large-Scale Study of Cultural Differentiation, Persona-Based Conversations, and Linguistic Patterns in LLMs
